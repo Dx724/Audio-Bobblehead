@@ -34,8 +34,4 @@ customhead2: |anna.png|~
 9{~
 songname: |Irresistible|~
 songartist: |Fall Out Boy|~
-customhead: |eric.png|~
-customhead2: |ange.png|~
-custombody: |salt.png|~
-custombody2: |potato.png|~
 }~
