@@ -1,0 +1,41 @@
+1{~
+songname: |It's Time|~
+songartist: |Imagine Dragons|~
+}~
+2{~
+songname: |Sandstorm|~
+songartist: |Darude|~
+}~
+3{~
+songname: |Sonic X Theme|~
+}~
+4{~
+songname: |Never Gonna Give You Up|~
+songartist: |Rick Astley|~
+}~
+5{~
+songname: |Nightcore - One In A Million|~
+songartist: |NightcoreReality & Run Kid Run|~
+}~
+6{~
+songname: |Warriors|~
+songartist: |Imagine Dragons|~
+}~
+7{~
+songname: |Welcome 2 Detroit|~
+songartist: |Eminem|~
+customhead2: |eminem.png|~
+}~
+8{~
+songname: |Love is an Open Door|~
+songartist: |Frozen|~
+customhead2: |anna.png|~
+}~
+9{~
+songname: |Irresistible|~
+songartist: |Fall Out Boy|~
+customhead: |eric.png|~
+customhead2: |ange.png|~
+custombody: |salt.png|~
+custombody2: |potato.png|~
+}~
